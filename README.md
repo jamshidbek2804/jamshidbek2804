@@ -12,5 +12,5 @@ Languages and tools I work with:
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0us5Ba-x10WX_xehLV2WxNpbgVKOeKtxSvw&usqp=CAU" width="25px">
 </code>
 <code>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfF94gBA_H1t5GdQ1mhVW8OGIRW9TdhlwOA&usqp=CAU" width="25px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfF94gBA_H1t5GdQ1mhVW8OGIRW9TdhlwOA&usqp=CAU" width="30px">
 </code>
