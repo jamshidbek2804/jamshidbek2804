@@ -7,7 +7,7 @@ Languages and tools I work with:
 <code>
   <img src="https://img.favpng.com/11/3/23/html-computer-icons-web-page-png-favpng-5tQWmMmdqy64nrtSrkL6hhKgy_t.jpg" width="25px">
 </code>
-<br/>
+<!-- <br/> -->
 <code>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0us5Ba-x10WX_xehLV2WxNpbgVKOeKtxSvw&usqp=CAU" width="25px">
 </code>
