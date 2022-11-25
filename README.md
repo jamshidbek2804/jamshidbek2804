@@ -7,3 +7,6 @@ Languages and tools I work with:
 <code>
   <img src="https://img.favpng.com/11/3/23/html-computer-icons-web-page-png-favpng-5tQWmMmdqy64nrtSrkL6hhKgy_t.jpg" width="25px">
 </code>
+<code>
+  <img src="[https://img.favpng.com/11/3/23/html-computer-icons-web-page-png-favpng-5tQWmMmdqy64nrtSrkL6hhKgy_t.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQ2emU7_7A9x_q42T-wVTWN1o9gbLc9zzOzDhccprPAghgQSJE1PsyHBlbZq35D9bF5I&usqp=CAU)" width="25px">
+</code>
